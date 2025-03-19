@@ -17,7 +17,6 @@ import pandas as pd
 import numpy as np
 import io
 from io import BytesIO
-import plotly.express as px
 
 # Configure app settings
 st.set_page_config(
